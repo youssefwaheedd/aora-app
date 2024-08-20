@@ -29,7 +29,7 @@ Aora App is a mobile application designed to let users upload, share, and discov
    ```bash
    npm install
    # or
-   yarn install****
+   yarn install
    
 ### Running the Project
 To start the development server:
